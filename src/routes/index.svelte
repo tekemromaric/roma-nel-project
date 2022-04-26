@@ -2,6 +2,8 @@
 	export const prerender = true;
 </script>
 
+
+
 <script>
 	import Counter from '$lib/Counter.svelte';
 </script>
@@ -13,6 +15,7 @@
 
 <section>
 	<h1>
+	test
 		<div class="welcome">
 			<picture>
 				<source srcset="svelte-welcome.webp" type="image/webp" />
