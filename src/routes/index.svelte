@@ -15,7 +15,7 @@
 
 <section>
 	<h1>
-	test
+	test 2
 		<div class="welcome">
 			<picture>
 				<source srcset="svelte-welcome.webp" type="image/webp" />
